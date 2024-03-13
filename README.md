@@ -3,6 +3,8 @@
 
 The greatest album you will ever hear.
 
+**Known issue: Spotify local files do not show album cover art. I am looking into what I can do to fix this, ideally with keeping the .m4a file format.**
+
 A few notes:
 - If a song is missing it's probably because I didn't like it (which is rare).
 - The release dates included in each release description might not match the actual release date on GitHub, especially for older versions. This is because those dates are when I originally updated the album in my own local files, so you can ignore those dates.

@@ -3,7 +3,7 @@
 
 The greatest album you will ever hear.
 
-**Known issue: Spotify local files do not show the cover art due to it not supporting the m4a file format. I had not realized this format is exclusive to Apple Music. I am working on creating another version of the comp with mp3 files that would support Spotify as well as any other music player.**
+**Known issue: Spotify local files do not show the cover art due to it not supporting the m4a file format. I had not realized this format is exclusive to Apple Music. I am working on creating another version of the comp with mp3 files which would support Spotify as well as any other music player.**
 
 A few notes:
 - If a song is missing it's probably because I didn't like it (which is rare).

@@ -3,9 +3,10 @@
 
 The greatest music you will ever hear.
 
-**Known issue: Spotify local files do not show the cover art due to Spotify not supporting the m4a file format.**
+**Known issues:**
+- Spotify local files do not show the cover art due to Spotify not supporting the m4a file format. The songs do play though.
 
-Please note:
+**Please note:**
 - This is not meant to be a complete compilation, but rather a collection of my personal favorites. My goal is to have this be listenable, rather than just adding every song possible.
 - If a song is missing it's usually because I either didn't like it (which is rare), it's already on streaming services, or it doesn't fit the overall sound (such as faygo's old style in his older music). 
 - The songs are ordered alphabetically to make future tracks easy to add.

@@ -1,13 +1,13 @@
-### SoFaygo - Never Apologize (Concept/Compilation)
+### SoFaygo - Never Apologize (Concept Album)
 ![N:A Concept Cover](https://github.com/HeyItsMicro/SoFaygo-Never-Apologize/assets/40962301/4a95b14b-234a-4bd0-b642-5a6830773d5f)
 
-The greatest album you will ever hear.
+The greatest music you will ever hear.
 
-**Known issue: Spotify local files do not show the cover art due to it not having full support for the m4a file format.**
+**Known issue: Spotify local files do not show the cover art due to Spotify not supporting the m4a file format.**
 
-A few notes:
-- If a song is missing it's probably because I didn't like it (which is rare), it's already on streaming, or it doesn't fit the N/A era vibe (like faygo's style in his older music).
-- The release dates included in each release description might not match the actual release date on GitHub, especially for older versions. This is because those dates are when I originally updated the album in my own local files, so you can ignore those dates.
+Please note:
+- This is not meant to be a complete compilation, but rather a collection of my personal favorites. My goal is to have this be listenable, rather than just adding every song possible.
+- If a song is missing it's usually because I either didn't like it (which is rare), it's already on streaming services, or it doesn't fit the overall sound (such as faygo's old style in his older music). 
 - The songs are ordered alphabetically to make future tracks easy to add.
 - Finally, if you listened to this and enjoyed it or have any suggestions, feel free to let me know!
 

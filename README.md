@@ -7,8 +7,8 @@ The greatest music you will ever hear.
 - Spotify local files do not show the cover art due to Spotify not supporting the m4a file format.
 
 **Please note:**
-- This is not meant to be a complete compilation, but rather a collection of my personal favorites. My goal is to have this be listenable, rather than adding every song possible.
-- If a song is missing it's usually because I either didn't like it (which is rare), it's already on streaming services, or it doesn't fit the overall sound (such as faygo's old style in his older music). 
+- This is not meant to be a complete compilation, but rather a collection of my personal favorites. My goal is to have this be listenable, rather than adding every song possible. If I change my mind about a song I may remove it.
+- If a song is missing it's usually because I either didn't like it (which is rare), or it's already on streaming services. 
 - The album is ordered alphabetically to make future songs simple to add.
 - Finally, if you listened to this and enjoyed it or have any suggestions, feel free to let me know!
 

@@ -1,4 +1,4 @@
-### SoFaygo - SoFaygo Sessions (Compilation)
+### SoFaygo Sessions (Compilation)
 ![Cover](https://github.com/HeyItsMicro/SoFaygo-Never-Apologize/assets/40962301/4a95b14b-234a-4bd0-b642-5a6830773d5f)
 
 The greatest music you will ever hear.

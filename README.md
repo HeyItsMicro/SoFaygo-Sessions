@@ -4,7 +4,7 @@
 The greatest music you will ever hear.
 
 **Known issues:**
-- Spotify local files do not show the cover art due to Spotify not supporting the m4a file format.
+- Spotify local files do not show the cover art due to Spotify not fully supporting the m4a file format.
 
 **Please note:**
 - This is not meant to be a complete compilation, but rather a collection of my personal favorites. My goal is to have this be listenable, rather than adding every song possible. If I change my mind about a song I may remove it.
